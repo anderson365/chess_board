@@ -1,3 +1,6 @@
+![Chess Board made with Next.js](https://raw.githubusercontent.com/anderson365/chess_board/main/public/chess_board.PNG)
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
