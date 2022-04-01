@@ -1,0 +1,16 @@
+.background{
+    background-color: darkgray;
+    height: 100vh;
+    
+}
+
+.title{
+    display: flex;
+    background-color: blueviolet;
+    justify-content: center;
+    margin: 0;
+}
+
+.green{
+    color: green;
+}
