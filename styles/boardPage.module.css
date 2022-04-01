@@ -1,9 +1,9 @@
 .background{
     background-color: darkgray;
     height: 100vh;
-    
-}
-
+    margin: 0px;
+  }
+  
 .title{
     display: flex;
     background-color: blueviolet;
@@ -11,3 +11,4 @@
     margin: 0;
     margin-bottom: 25px;
 }
+  
